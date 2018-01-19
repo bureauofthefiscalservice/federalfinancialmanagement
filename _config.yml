@@ -1,0 +1,41 @@
+#document settings
+
+title: Federal Financial Management (FFM)
+desc: "Business Data Elements Collaboration Space"
+url: /fedfmdataelements.github.io
+repo_name: fedfmdataelements.github.io
+branch: master
+encoding: utf-8
+
+#global settings, no need to change these
+root_url: //fedfmdataelements.github.io
+org_name: fedfmdataelements
+
+# default build settings for running locally, no need to edit
+highlighter: rouge
+exclude: ["script", "vendor", "Gemfile", "Gemfile.lock", "config.ru", "Procfile", "Rakefile", "readme.md", "LICENSE"]
+markdown: kramdown
+# markdown: redcarpet
+# redcarpet:
+#   extensions: []
+relative_permalinks: false
+
+gems:
+ - jekyll-redirect-from
+
+whitelist:
+ - jekyll-redirect-from
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: Data Elements
+   url: /data-elements
+ - title: Get Involved
+   url: /get-involved
+ - title: Issues
+   url: /issues
+
+sass:
+  sass_dir:          assets/_scss
+  #style:            :compressed
