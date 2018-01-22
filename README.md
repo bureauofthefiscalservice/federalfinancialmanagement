@@ -5,7 +5,7 @@
 
 ## How to Contribute
 
-For information on how to contribute, please click [here](https://fiscal.github.io/https://github.com/federalfinancialmanagement/get-involved)
+For information on how to contribute, please click [here](https://fiscal.github.io/federalfinancialmanagement/get-involved)
 
 ## License
 
