@@ -35,11 +35,11 @@ page: homepage
         <ul>
             <li>92 Elements from the DAIMS; 
                 <a href="http://fedspendingtransparency.github.io/dictionary-v1.2" target="_blank">DAIMS v1.2</a>; 
-                <a href="assets/downloads/FFM Data Elements from DAIMS.xlsx" target="_blank" download>FFM Data Elements from DAIMS</a>
+                <a href="assets/downloads/DAIMS_DEs.xlsx" target="_blank" download>FFM Data Elements from DAIMS</a>
             </li>
             <li>408 Elements from the FSDR; 
                 <a href="https://www.transparency.treasury.gov/dataset/data-registry/registry#meta-data" target="_blank">FSDR</a>; 
-                <a href="assets/downloads/FFM Data Elements from FS DR.xlsx" target="_blank" download>FFM Data Elements from FSDR</a>
+                <a href="assets/downloads/FSDR_DEs.xlsx" target="_blank" download>FFM Data Elements from FSDR</a>
             </li>
             <li><a href="./data-elements">27 New Elements and Definitions (see below)</a></li>
         </ul>
