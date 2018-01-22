@@ -5,7 +5,7 @@
 
 ## How to Contribute
 
-For information on how to contribute, please click [here](contributing.md)
+For information on how to contribute, please click [here](https://{{site.repo_name}}/federalfinancialmanagement/get-involved)
 
 ## License
 

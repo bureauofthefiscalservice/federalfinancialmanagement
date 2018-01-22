@@ -33,8 +33,6 @@ navigation:
    url: /data-elements
  - title: Get Involved
    url: /get-involved
- - title: Issues
-   url: /issues
 
 sass:
   sass_dir:          assets/_scss
