@@ -1,7 +1,7 @@
 ---
 published: true
 permalink: /index.html
-layout: hero
+layout: article
 filename: index.md
 title: FFM Business Data Elements
 page: homepage
