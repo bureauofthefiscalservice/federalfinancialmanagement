@@ -8,43 +8,59 @@ page: homepage
 ---
 <div class="row">
     <div class="col-md-8">
-        <h2 class="mt-0">About Federal Financial Management (FFM) Business Data Elements</h2>
+
+        <h2 class="mt-0">Get Involved</h2>
+        <p>Visit the <a href="./get-involved">Get Involved</a> page to find out how to comment or participate in different
+            aspects of this project.
+        </p>
+        <h2 class="mt-0">Federal Financial Management (FM) Standard Data Elements</h2>
         <p>
-            The Department of the Treasury, Bureau of the Fiscal Service, Office of Federal
-            Financial Management (FIT) is participating in the development of
-            government-wide business standards. Those standards are: 
-        </p>    
+            Treasury’s Office of Financial Innovation and Transformation (FIT) is the Line of Business (LoB) Managing
+            Partner for the Federal Financial Management (FM) service area. FIT has developed a set of reference
+            documents to help guide agencies in improving the cost, quality, and performance of Federal financial
+            activities and solutions. Those references include:
+        </p>
         <ul>
             <li>
-                <a href="https://tfm.fiscal.treasury.gov/v1/p6/c950.html" target="_blank">Federal Financial Management System Requirements (FFMSR)</a>
+                <a href="https://tfm.fiscal.treasury.gov/v1/p6/c950.html" target="_blank">Federal Financial Management
+                    System Requirements (FFMSR)</a>: defines financial system standards and reporting requirements
+                capabilities, with references to underlying standards and regulations
             </li>
             <li>
-                <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/FMFunctionsandActivities.pdf" target="_blank" download>Federal Financial Management Functions & Activities List</a>
+                <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/FMFunctionsandActivities.pdf"
+                   target="_blank" download>Federal Financial Management Functions & Activities List</a>: defines a
+                taxonomy of FM capabilities and services, with references to OMB Circular A-11 and the FFMSR
             </li>
             <li>
-                <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/fit_usecase.htm" target="_blank">Federal Financial Management Business Use Cases</a>
+                <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/fit_usecase.htm" target="_blank">Federal
+                    Financial Management Business Use Cases</a>: establishes a system agnostic view of the flow of
+                events
+                to complete the federal FM business processes, with links to the FFMSR
             </li>
         </ul>
-        <h4 class="mt-0">Federal Financial Management Business Data Elements</h4>
-
-        <p>The goal of this initiative was to identify the critical FFM business data elements.  These elements have been deem mandatory in order to execute an agency’s FFM business capabilities. To complete this, FIT worked with a Federal Financial Management Working Group (FMWG) to review and refine these Data Elements. FMWG members included representation from the CFO Act agencies, OMB, GSA Unified Shared Services Management (USSM) Office, and the Department of Treasury.</p>
-        <p>FM community has done considerable work already and that work is memorialized in both the DATA Act Information Model Schema (DAIMS) and the Fiscal Service Data Registry (FSDR).</p> 
-        <p>This effort focused on whether there were additional elements beyond those memorialized in DAIMS or FSDR. This review is for the elements defined beyond those in DAIMS or FSDR.</p>
-
-        <h4 class="mt-0">We have identified 531 FFM Data Elements:</h4>
+        <p>FIT also identified 527 FM Standard Business Data Elements which reflect the data elements needed to meet the
+            requirements defined in the FFMSR. Included in this inventory are elements that have already been defined in
+            either the DATA Act Information Model Schema (DAIMS) or the Fiscal Service Data Registry (FSDR):</p>
         <ul>
-            <li>92 Elements from the DAIMS; 
-                <a href="http://fedspendingtransparency.github.io/dictionary-v1.2" target="_blank">DAIMS v1.2</a>; 
+            <li>92 Elements from the DAIMS;
+                <a href="http://fedspendingtransparency.github.io/dictionary-v1.2" target="_blank">DAIMS v1.2</a>;
                 <a href="assets/downloads/DAIMS_DEs.xlsx" target="_blank" download>FFM Data Elements from DAIMS</a>
             </li>
             <li>408 Elements from the FSDR; 
-                <a href="https://www.transparency.treasury.gov/dataset/data-registry/registry#meta-data" target="_blank">FSDR</a>; 
+                <a href="https://www.transparency.treasury.gov/dataset/data-registry/registry#meta-data"
+                   target="_blank">FSDR</a>;
                 <a href="assets/downloads/FSDR_DEs.xlsx" target="_blank" download>FFM Data Elements from FSDR</a>
             </li>
-            <li><a href="./data-elements">27 New Elements and Definitions (see below)</a></li>
+            <li>27 <a href="./data-elements">New Elements and Definitions (see below)</a></li>
         </ul>
-        <h4 class="mt-0">We are asking the FFM Community to weigh in on the selected data elements:</h4>
-
+        <p>To that end, FIT is soliciting feedback on the inventory of the FM Standard Data Elements in order to improve
+            its accuracy and clarity. Consider the following:
+        </p>
+        <p>
+            <strong>For the 27 new standard data elements identified and defined</strong> (27 definitions and
+            information for these elements are available on the <a href="/data-elements">Data
+            Elements Page</a>
+        </p>
         <ul>
             <li>
                 Are they appropriately named?
@@ -56,15 +72,11 @@ page: homepage
                 Is the Authoritative Reference(s) listed correct and comprehensive?
             </li>
         </ul>
-        <h4 class="mt-0">Also, after reviewing all 527 of the identified critical FFM data elements:</h4>
+        <p><strong>Also, after reviewing all 527 of the identified critical FFM data elements:</strong></p>
         <ul>
             <li>Are these the correct critical FFM data elements?</li>
             <li>Are we missing any critical data elements?</li>
         </ul>
-
-        <p>
-            The definitions and information for these elements are available on the <a href="/data-elements">Data Elements Page</a>
-        </p>
     </div>
      
     <div class="col-md-4">
@@ -79,5 +91,3 @@ page: homepage
         </div>
     </div>
 </div>
-
-

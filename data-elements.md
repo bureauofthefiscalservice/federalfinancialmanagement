@@ -8,7 +8,9 @@ title: Data Elements
 
 # Data Elements
 
-The data elements are grouped by End-to-End Business Process. We have placed the elements in their primary business process for ease of review, but we realize that many may be used in more than one process. Each End-to-End Business Process will have it’s own GitHub issue, which is where you can see the input posted during the public input period. Thank you to all who provides input on these data elements.
+The data elements are grouped by End-to-End Business Process. An End-to-End Business Process identifies a start-to-finish outcome required by the business unit customer of mission support services (e.g., a program office). The End-to-End Business Process provides the context for executing financial management services.  
+
+We have placed the elements in their primary business process for ease of review, but we realize that many may be used in more than one process. Each End-to-End Business Process will have its own GitHub issue, which is where you can see the input posted during the public input period. Thank you to all who provides input on these data elements.
 <h2>010 - Budget Formulation-to-Execution</h2>
 <div class="table-responsive">
     <table class="table-bordered">
