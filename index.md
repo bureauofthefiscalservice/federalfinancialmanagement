@@ -8,11 +8,6 @@ page: homepage
 ---
 <div class="row">
     <div class="col-md-8">
-
-        <h2 class="mt-0">Get Involved</h2>
-        <p>Visit the <a href="./get-involved">Get Involved</a> page to find out how to comment or participate in different
-            aspects of this project.
-        </p>
         <h2 class="mt-0">Federal Financial Management (FM) Standard Data Elements</h2>
         <p>
             Treasury’s Office of Financial Innovation and Transformation (FIT) is the Line of Business (LoB) Managing
@@ -42,31 +37,31 @@ page: homepage
             requirements defined in the FFMSR. Included in this inventory are elements that have already been defined in
             either the DATA Act Information Model Schema (DAIMS) or the Fiscal Service Data Registry (FSDR):</p>
         <ul>
-            <li>92 Elements from the DAIMS;
-                <a href="http://fedspendingtransparency.github.io/dictionary-v1.2" target="_blank">DAIMS v1.2</a>;
+            <li>92 Elements from the
+                <a href="http://fedspendingtransparency.github.io/dictionary-v1.2" target="_blank">DAIMS v1.2</a>:
                 <a href="assets/downloads/DAIMS_DEs.xlsx" target="_blank" download>FFM Data Elements from DAIMS</a>
             </li>
-            <li>408 Elements from the FSDR; 
+            <li>408 Elements from the
                 <a href="https://www.transparency.treasury.gov/dataset/data-registry/registry#meta-data"
-                   target="_blank">FSDR</a>;
+                   target="_blank">FSDR</a>:
                 <a href="assets/downloads/FSDR_DEs.xlsx" target="_blank" download>FFM Data Elements from FSDR</a>
             </li>
-            <li>27 <a href="./data-elements">New Elements and Definitions (see below)</a></li>
+            <li>27 <a href="./data-elements">New Elements and Definitions</a></li>
         </ul>
         <p>To that end, FIT is soliciting feedback on the inventory of the FM Standard Data Elements in order to improve
             its accuracy and clarity. Consider the following:
         </p>
         <p>
             <strong>For the 27 new standard data elements identified and defined</strong> (27 definitions and
-            information for these elements are available on the <a href="/data-elements">Data
-            Elements Page</a>
+            information for these elements are available on the <a href="./data-elements">Data
+            Elements Page</a>):
         </p>
         <ul>
             <li>
-                Are they appropriately named?
+                Are the data elements appropriately named?
             </li>
             <li>
-                Are the definitions accurate?
+                Are the data element definitions accurate?
             </li>
             <li>
                 Is the Authoritative Reference(s) listed correct and comprehensive?
@@ -74,8 +69,8 @@ page: homepage
         </ul>
         <p><strong>Also, after reviewing all 527 of the identified critical FFM data elements:</strong></p>
         <ul>
-            <li>Are these the correct critical FFM data elements?</li>
-            <li>Are we missing any critical data elements?</li>
+            <li>Are these the correct data elements?</li>
+            <li>Are we missing any data elements?</li>
         </ul>
     </div>
      
@@ -85,8 +80,8 @@ page: homepage
                 <h3>Get Involved</h3>
             </div>
             <div class="panel-body">
-                <p>Visit the <a href="{{ site.baseurl }}/get-involved/" title="Get Involved">Get Involved</a> page to
-                    find out how to comment or participate in different aspects of this project.</p>
+                <p>Visit the <a href="./get-involved">Get Involved</a> page to find out how to comment or participate in different
+                               aspects of this project.</p>
             </div>
         </div>
     </div>
