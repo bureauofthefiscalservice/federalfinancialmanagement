@@ -49,12 +49,6 @@
   display: none;
 }
 
-@media (max-width: 1200px) {
-  a.usa-da-navbar-header {
-    max-width: 65%;
-  }
-}
-
 @media (min-width: 768px) {
   .usa-da-header {
     background: #fff;
@@ -66,7 +60,6 @@
       .usa-da-masthead-wrap {
         width: auto;
         a.usa-da-navbar-header {
-          max-width: 90%;
           margin: 50px 0;
           & h1 {
             margin: auto;
@@ -103,7 +96,6 @@
     @include flexbox-display-flex();
     justify-content: flex-center;
     -webkit-flex-flow: row wrap;
-    -webkit-flex-flow: row wrap;
     & > li {
       margin: 0;
       a {
@@ -133,12 +125,6 @@
     display: block;
   }
 }
-
-//@media (min-width: 768px) and (max-width: 1200px) {
-//    a.usa-da-navbar-header{
-//        max-width: 65%;
-//    }
-//}
 
 @media (min-width: 768px) and (max-width: 990px) {
   a.usa-da-navbar-header {
