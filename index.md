@@ -10,8 +10,7 @@ page: homepage
     <div class="col-md-8">
         <h2 class="mt-0">Federal Financial Management (FM) Standard Data Elements</h2>
         <p>
-            Treasury’s Office of Financial Innovation and Transformation (FIT) is soliciting feedback on the inventory
-            of Federal Financial Management Standard Data Elements in order to improve their accuracy and clarity.
+            Treasury’s Office of Financial Innovation and Transformation (FIT) is soliciting feedback on the inventory of Federal Financial Management Standard Data Elements in order to improve their accuracy and clarity.  This information will be used to determine what data elements are required in financial management systems in order to meet the Federal Financial Management System Requirements.
         </p>
         <!--<p>-->
         <!--Treasury’s Office of Financial Innovation and Transformation (FIT) is the Line of Business (LoB) Managing-->
@@ -19,9 +18,8 @@ page: homepage
         <!--documents to help guide agencies in improving the cost, quality, and performance of Federal financial-->
         <!--activities and solutions. Those references include:-->
         <!--</p>-->
-        <p><strong>How You Can Help</strong></p>
-        <p>Visit the <a href="./get-involved">Get Involved</a> page to find out how to comment or participate in
-            different aspects of this project.
+        <p><h3 class="mt-0">How You Can Help</h3></p>
+        <p>Visit the <a href="./get-involved">Get Involved</a> page to find out how to comment or participate in different aspects of this project. Your feedback is critical to ensure the thoroughness of the inventory.
         </p>
         <p>
             When preparing feedback, consider the following:
@@ -44,10 +42,11 @@ page: homepage
         </ul>
         <p><strong>Also, after reviewing all 527 of the identified critical FM data elements:</strong></p>
         <ul>
-            <li>Are these the correct data elements?</li>
             <li>Are we missing any data elements?</li>
         </ul>
-        <h2 class="mt-0">Background</h2>
+        <p>Note: We are not requesting feedback to the elements previously defined in the DATA Act Information Model Schema or the Fiscal Service Data Registry at this time.
+        </p>
+        <h3 class="mt-0">Background</h3>
         <p>
             FIT is the Line of Business Managing Partner for Federal Financial Management services. FIT has developed a
             set of reference documents that guide agencies in improving the cost, quality, and performance of
