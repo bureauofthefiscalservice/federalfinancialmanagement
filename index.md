@@ -25,7 +25,7 @@ page: homepage
             When preparing feedback, consider the following:
         </p>
         <p>
-            <strong>For the 27 new standard data elements identified and defined</strong> (27 definitions and
+            <strong>For the new standard data elements identified and defined</strong> (definitions and
             information for these elements are available on the <a href="./data-elements">Data
             Elements Page</a>):
         </p>
@@ -40,7 +40,7 @@ page: homepage
                 Is the Authoritative Reference(s) listed correct and comprehensive?
             </li>
         </ul>
-        <p><strong>Also, after reviewing all 527 of the identified critical FM data elements:</strong></p>
+        <p><strong>Also, after reviewing all of the identified critical FM data elements:</strong></p>
         <ul>
             <li>Are we missing any data elements?</li>
         </ul>
