@@ -19,4 +19,4 @@ Thursday, February 1st @ 1:00PM-2:00PM EST
 
 Wednesday, February 7th @ 11:00AM-12:00PM EST
 
-<strong>NEW:</strong> Thursday, February 15th @ 2:00PM-3:00PM EST
+<strong>NEW:</strong> Thursday, February 15th @ 3:00PM-4:00PM EST
