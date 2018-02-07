@@ -11,6 +11,23 @@ title: Data Elements
 The data elements are grouped by End-to-End Business Process. An End-to-End Business Process identifies all of the events necessary to reach a desired result. The End-to-End Business Process provides the situation and manner in which to the FM Data Elements will be used.
 
 We have placed the elements in their primary business process for ease of review, but we realize that many may be used in more than one process. Each End-to-End Business Process will have its own GitHub feedback page, which is where you can see the input posted during the public input period. Thank you to all who provides input on these data elements.
+
+<p>When preparing feedback, consider the following:
+</p>
+<p><strong>For the new standard data elements identified and defined</strong>:
+</p>
+<ul>
+<li>   Are the data elements appropriately named?</li>
+<li>   Are the data element definitions accurate?</li>
+<li>   Is the Authoritative Reference(s) listed correct and comprehensive?</li>
+</ul>
+<p><strong>Also, after reviewing all of the identified critical FM data elements:</strong>
+</p>
+<ul>
+<li>   Are we missing any data elements?</li>
+</ul>
+<p>Note: We are not requesting feedback to the elements previously defined in the DATA Act Information Model Schema or the Fiscal Service Data Registry at this time.</p>
+
 <h2>010 - Budget Formulation-to-Execution</h2>
 <div class="table-responsive">
     <table class="table-bordered">
