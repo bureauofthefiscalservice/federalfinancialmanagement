@@ -64,78 +64,147 @@ Thank you to all who provides input on these business exchange standards.
         </tr>
         </thead>
         <tbody>
-        <tr>
-            <td>
-                BudgetAllotmentAmount
-            </td>
-            <td>
-                A subdivision of an apportionment that is made by the head of an agency.
-            </td>
-            <td>
-                OMB Circular No. A-11, Appendix H, Checklist for Fund Control Regulations, Section 4: Definitions,
-                Terminology, and Concepts
-            </td>
-            <td>
-                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
-                   target="_blank">Feedback Period is Closed</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                BudgetSubAllotmentAmount
-            </td>
-            <td>
-                A subdivision of an allotment.
-            </td>
-            <td>
-                OMB Circular No. A-11, Appendix H, Checklist for Fund Control Regulations, Section 4: Definitions,
-                Terminology, and Concepts
-            </td>
-            <td>
-                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
-                   target="_blank">Feedback Period is Closed</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                AgencyFundCode
-            </td>
-            <td>
-                A code designated by the agency to a fund. It is a shorthand code entered on transactions that enables
-                the
-                derivation of the account identification codes required for reporting externally to Treasury (the TAS)
-                and
-                OMB (the budget account) as well as the derivation of USSGL account attributes. It can be used for
-                segregating funds that have multiple apportionment categories, or that have both discretionary and
-                mandatory
-                authority.
-            </td>
-            <td>
-                Common Government-wide Accounting Classification Structure, Version 1.0, July 2007
-            </td>
-            <td>
-                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
-                   target="_blank">Feedback Period is Closed</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                ReductionTypeCode
-            </td>
-            <td>
-                The code representing the USSGL attribute for a type of reduction being reported (e.g., Across The
-                Board,
-                Sequestration or Other) in detailed financial information.
-            </td>
-            <td>
-                USSGL, Section IV Account Attributes for USSGL Proprietary Account and Budgetary Account Reporting
-            </td>
-            <td>
-                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
-                   target="_blank">Feedback Period is Closed</a>
-            </td>
-        </tr>
-        </tbody>
+      <tr>
+    <th>ActivityIdentifier</th>
+    <th>An activity is a series of events, tasks, or units of work that are linked to perform a specific objective.</th>
+    <th>Optional</th>
+    <th> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>AgencyIdentifier</td>
+    <td>The Treasury Account Symbol (TAS) component that identifies the department, agency or establishment of the U.S. Government that is responsible for the TAS. Agency Identifier is also used apart from the TAS to identify a major department or independent agency of the Federal government.</td>
+    <td>Required</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>AllocationTransferAgencyIdentifier</td>
+    <td>The Treasury Account Symbol (TAS) component that identifies the agency receiving funds through an allocation transfer.</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>AvailabilityTypeCode</td>
+    <td>The Treasury Account Symbol (TAS) component that identifies no-year accounts (X), clearing/suspense accounts (F), Treasury central summary general ledger accounts (A), and merged-surplus accounts (M).</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>BeginningPeriodOfAvailability</td>
+    <td>The Treasury Account Symbol (TAS) component that identifies the first year of availability under law that an account may incur new obligations, in annual and multiyear accounts.</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>CostCenterWorkUnitCode</td>
+    <td>A Cost Center is a clearly defined responsibility area where costs are incurred.</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>Description</td>
+    <td>A brief description of the requisition, order or invoice.</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>DocumentApprovalDate</td>
+    <td>The date which the agreement was approved.</td>
+    <td>Required</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>DocumentLineAmount</td>
+    <td>The total price is the quantity x unit price for each itemized line within the requisition, order or invoice.</td>
+    <td>Required</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>DocumentLineDescription</td>
+    <td>The description of goods/services associated with each itemized line within the requisition, order or invoice.</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>DocumentLineNumber</td>
+    <td>Identifies the line number on the requisition, order, receipt or invoice for each separate product or service.</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>DocumentLineQuantity</td>
+    <td>The quantity of goods/services associated with each itemized line within the requisition, order or invoice.</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>DocumentLineUnitofMeasure</td>
+    <td>The means a quantity is accounted for and expressed on each itemized line within the requisition, order or invoice for a good/service.</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>DocumentReferenceNumber</td>
+    <td>Details a unique identifying number created by a system for a document, e.g. payment or collection document .</td>
+    <td>Required</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>EndingPeriodOfAvailability</td>
+    <td>The Treasury Account Symbol (TAS) component that identifies the last year of availability under law that an account may incur new obligations, in annual and multiyear accounts.</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>FiscalYear</td>
+    <td>The budget or financial year, as opposed to a calendar year. The U.S. Government's fiscal year runs from October 1 of the prior year through September 30 of the next year. For example, FY 2015 was from October 2014 through September 2015.</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>InternalOrganizationCode</td>
+    <td>The code that identifies the entity that manages resources below the agency and bureau level, such as an office or a division.</td>
+    <td>Required</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>MainAccountCode</td>
+    <td>The Treasury Account Symbol (TAS) component that represents the type and purpose of the fund.</td>
+    <td>Required</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>ObjectClass</td>
+    <td>Categories in a classification system that presents obligations by the items or services purchased by the Federal Government</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>ProgramActivityCode</td>
+    <td>The definition for this element appears in Section 200 (https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/a11_current_year/s200.pdf) of OMB Circular A-11 issued June 2015; a brief summary from A-11 appears below. Code of a specific activity or project as listed in the program and financing schedules of the annual budget of the United States Government.</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>ProjectIdentifier</td>
+    <td>A planned undertaking of work to be performed or product to be produced having a finite beginning and end.</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>SubAccountCode</td>
+    <td>This is a component of the TAS. Identifies a Treasury-defined subdivision of the main account. This field cannot be blank. Subaccount 000 indicates the Parent account.</td>
+    <td>Required</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+  <tr>
+    <td>Unitprice</td>
+    <td>The price of one purchase unit on a requisition, order or invoice.</td>
+    <td>Optional</td>
+    <td> <a href=“https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21” target=“_blank” rel=“noopener noreferrer”>Provide Feedback</a></td>
+  </tr>
+       </tbody>
     </table>
 </div>
 <h2>020 - Acquire-to-Dispose</h2>
