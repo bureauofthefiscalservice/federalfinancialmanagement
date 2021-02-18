@@ -1,9 +1,9 @@
 ---
-published: true
-permalink: /data-elements/
+published: false
+permalink: /data-elements-archived/
 layout: article
-filename: data-elements.md
-title: Data Elements
+filename: data-elements-archived.md
+title: Data Elements (Archived)
 ---
 
 # Data Elements
