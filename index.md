@@ -8,17 +8,52 @@ page: homepage
 ---
 <div class="row">
     <div class="col-md-8">
-        <h2 class="mt-0">Federal Financial Management (FM) Standard Data Elements</h2>
+        <h2 class="mt-0">Federal Financial Management (FM) Standard Data Exchanges and Proposed Data Elements</h2>
         <p>
-            Treasury’s Office of Financial Innovation and Transformation (FIT) is soliciting feedback on the inventory of Federal Financial Management Standard Data Elements in order to improve their accuracy and clarity.  This information will be used to determine what data elements are required in financial management systems in order to meet the Federal Financial Management System Requirements.
+            Treasury’s Office of Financial Innovation and Transformation (FIT) is soliciting feedback on the addition of Federal Financial Management Standard Business Data Exchanges and Data Elements to the existing inventory to improve their accuracy and clarity of the federal financial system standards. This information will be used to determine what data elements are required in financial management systems to meet the Federal Financial Management System Requirements.
         </p>
-        <!--<p>-->
+     <p>
+            Note: We are not requesting feedback to the elements previously defined in the existing inventory of FM Standard Business Data Elements, DATA Act Information Model Schema or the Fiscal Service Data Registry as part of this public comment period.
+        </p>
+     <!--<p>-->
         <!--Treasury’s Office of Financial Innovation and Transformation (FIT) is the Line of Business (LoB) Managing-->
         <!--Partner for the Federal Financial Management (FM) service area. FIT has developed a set of reference-->
         <!--documents to help guide agencies in improving the cost, quality, and performance of Federal financial-->
         <!--activities and solutions. Those references include:-->
         <!--</p>-->
-        <p><h3 class="mt-0">How You Can Help</h3></p>
+        <p><h3 class="mt-0">Background</h3></p>
+         <p>
+            FIT is the Line of Business Managing Partner for Federal Financial Management services. FIT has developed a
+            set of reference documents that guide agencies in improving the cost, quality, and performance of
+            Federal financial activities and solutions. Those references include:
+        </p>
+        <ul>
+            <li>
+                <a href="https://tfm.fiscal.treasury.gov/v1/p6/c950.html" target="_blank">Federal Financial Management
+                    System Requirements (FFMSR)</a>: defines financial system standards and reporting requirements
+                capabilities, with references to underlying standards and regulations
+            </li>
+            <li>
+                <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/FMFunctionsandActivities.pdf"
+                   target="_blank" download>Federal Financial Management Functions & Activities List</a>: defines a
+                taxonomy of FM capabilities and services, with references to OMB Circular A-11 and the FFMSR
+            </li>
+            <li>
+                <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/fit_usecase.htm" target="_blank">Federal
+                    Financial Management Business Use Cases</a>: establishes a system agnostic view of the flow of
+                events
+                to complete the federal FM business processes, with links to the FFMSR
+            </li>
+        <li>
+                <a href="https://fiscal.treasury.gov/files/fit/ffm-standard-data-elements.xlsx" target="_blank">Federal
+                    Financial Management Standard Data Elements</a>: identify the minimum data fields required to support the inputs and outputs noted in the use cases and                           capabilities.
+            </li>
+          <li>
+</li>
+         
+        <ul>
+       </ul>
+       <p><h3 class="mt-0">How You Can Help</h3></p>
         <p>Visit the <a href="./get-involved">Get Involved</a> page to find out how to comment or participate in different aspects of this project. Your feedback is critical to ensure the thoroughness of the inventory.
         </p>
         <p>
@@ -49,29 +84,7 @@ page: homepage
         <p>
         </p>
         <h3 class="mt-0">Background</h3>
-        <p>
-            FIT is the Line of Business Managing Partner for Federal Financial Management services. FIT has developed a
-            set of reference documents that guide agencies in improving the cost, quality, and performance of
-            Federal financial activities and solutions. Those references include:
-        </p>
-        <ul>
-            <li>
-                <a href="https://tfm.fiscal.treasury.gov/v1/p6/c950.html" target="_blank">Federal Financial Management
-                    System Requirements (FFMSR)</a>: defines financial system standards and reporting requirements
-                capabilities, with references to underlying standards and regulations
-            </li>
-            <li>
-                <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/FMFunctionsandActivities.pdf"
-                   target="_blank" download>Federal Financial Management Functions & Activities List</a>: defines a
-                taxonomy of FM capabilities and services, with references to OMB Circular A-11 and the FFMSR
-            </li>
-            <li>
-                <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/fit_usecase.htm" target="_blank">Federal
-                    Financial Management Business Use Cases</a>: establishes a system agnostic view of the flow of
-                events
-                to complete the federal FM business processes, with links to the FFMSR
-            </li>
-        </ul>
+       
 
         <p>FIT also identified 527 FM Standard Business Data Elements which reflect the data elements needed to meet the
             requirements defined in the FFMSR. Included in this inventory are elements that have already been defined in
