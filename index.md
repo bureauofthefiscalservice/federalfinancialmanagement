@@ -60,24 +60,22 @@ page: homepage
         </p>
          <ul>
             <li>
-                <a href="https://tfm.fiscal.treasury.gov/v1/p6/c950.html" target="_blank">Federal Financial Management
-                    System Requirements (FFMSR)</a>: defines financial system standards and reporting requirements
-                capabilities, with references to underlying standards and regulations
+                <a> The requisition business exchange occurs when the request to acquire goods or services is approved.  When a requisition is approved in the mission support system, a commitment is created in the financial system. 
             </li>
-            <li>
-                <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/FMFunctionsandActivities.pdf"
-                   target="_blank" download>Federal Financial Management Functions & Activities List</a>: defines a
-                taxonomy of FM capabilities and services, with references to OMB Circular A-11 and the FFMSR
+             <li>
+                <a> The order business exchange occurs when the authorization to acquire goods or services is approved. When an order is approved in the mission support system, an obligation is created in the financial system.  
             </li>
-            <li>
-                <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/fit_usecase.htm" target="_blank">Federal
-                    Financial Management Business Use Cases</a>: establishes a system agnostic view of the flow of
-                events
-                to complete the federal FM business processes, with links to the FFMSR
+          <li>
+                <a> The invoice business exchange occurs when the quantities and costs of the goods or services provided by the seller.  Once the invoice has been approved, an outlay is created in the financial system.
             </li>
-        <li>
-                <a href="https://fiscal.treasury.gov/files/fit/ffm-standard-data-elements.xlsx" target="_blank">Federal
-                    Financial Management Standard Data Elements</a>: identify the minimum data fields required to support the inputs and outputs noted in the use cases and                           capabilities.
+             <li>
+                <a> The goods/service receipt business exchange occurs when the acknowledgement of having received goods and services for a specified quantity, amount, etc.
+            </li>
+             <li>
+                <a> The entity information business exchange occurs on a regular basis between mission support systems and the financial system.  The information in this exchange includes information about entities interacting with the government.  This includes both payee and payer information needed to send or receive funds.
+            </li>
+                 <li>
+                <a>The automated journal entry business exchange occurs when the mission support system initiates a financial transaction to be posted to the general ledger through an automated process (e.g., payroll batch upload). This does not include journal entries manually created or requiring human intervention to process.
             </li>
             </ul>
         <ul>
