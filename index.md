@@ -75,12 +75,29 @@ page: homepage
         <ul>
        </ul>
        <p><h3 class="mt-0">How You Can Help</h3></p>
-        <p>Visit the <a href="./get-involved">Get Involved</a> page to find out how to comment or participate in different aspects of this project. Your feedback is critical to ensure the thoroughness of the business exchange standards and the data elements necessary for the exchange of information. Both the proposed business exchange standards and the new proposed data elements can be found on the  <a href="./business-exchanges-standards">Business Exchanges</a>)
+        <p>Visit the <a href="./get-involved">Get Involved</a> page to find out how to comment or participate in different aspects of this project. Your feedback is critical to ensure the thoroughness of the business exchange standards and the data elements necessary for the exchange of information. Both the proposed business exchange standards and the new proposed data elements can be found on the  <a href="./business-exchanges-standards">Business Exchange Page</a>)
         </p>
         <p>
             When preparing feedback, consider the following:
         </p>
         <p>
+            <strong>For the Business Exchange Standards</strong>(the data that is required to be passed from the mission support system to the financial system and vice versa.) 
+        </p>
+        <ul>
+            <li>
+                Are the data elements appropriately named?
+            </li>
+            <li>
+                Are the data element definitions accurate?
+            </li>
+            <li>
+                Is the data element required when the exchange of information is done?
+            </li>
+    <li>
+               Is this list correct and comprehensive for the necessary information to be exchanged for the related business process?
+            </li>
+        </ul>
+        <p>  <p>
             <strong>For the new standard data elements identified and defined</strong> (definitions and
             information for these elements are available on the <a href="./business-exchanges-standards">Business Exchanges</a>) under the business exchange standard proposals sections:
         </p>
@@ -93,46 +110,8 @@ page: homepage
             </li>
             <li>
                 Is the Authoritative Reference(s) listed correct and comprehensive?
-            </li>
-        </ul>
-        <p><strong>Also, after reviewing all of the identified critical FM data elements:</strong></p>
+            </li></p>
         <ul>
             <li>Are we missing any data elements?</li>
         </ul>
-        <p>Note: We are not requesting feedback to the elements previously defined in the DATA Act Information Model Schema or the Fiscal Service Data Registry at this time.
-        </p>
-        <p>
-        </p>
-        <h3 class="mt-0">Background</h3>
-       
-
-        <p>FIT also identified 527 FM Standard Business Data Elements which reflect the data elements needed to meet the
-            requirements defined in the FFMSR. Included in this inventory are elements that have already been defined in
-            either the DATA Act Information Model Schema (DAIMS) or the Fiscal Service Data Registry (FSDR):</p>
-        <ul>
-            <li>92 Elements from the
-                <a href="http://fedspendingtransparency.github.io/dictionary-v1.2" target="_blank">DAIMS v1.2</a>:
-                <a href="assets/downloads/DAIMS_DEs.xlsx" target="_blank" download>FFM Data Elements from DAIMS</a>
-            </li>
-            <li>408 Elements from the
-                <a href="https://www.transparency.treasury.gov/dataset/data-registry/registry#meta-data"
-                   target="_blank">FSDR</a>:
-                <a href="assets/downloads/FSDR_DEs.xlsx" target="_blank" download>FFM Data Elements from FSDR</a>
-            </li>
-            <li>27 <a href="./data-elements">New Elements and Definitions</a></li>
-        </ul>
-    </div>
-     
-    <div class="col-md-4">
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3>Get Involved</h3>
-            </div>
-            <div class="panel-body">
-                <p>Visit the <a href="./get-involved">Get Involved</a> page to find out how to comment or participate in
-                    different
-                    aspects of this project.</p>
-            </div>
-        </div>
-    </div>
-</div>
+    
