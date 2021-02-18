@@ -99,7 +99,7 @@ page: homepage
         </ul>
         <p>  <p>
             <strong>For the new standard data elements identified and defined</strong> (definitions and
-            information for these elements are available on the <a href="./business-exchanges-standards">Business Exchanges</a>) under the business exchange standard proposals sections:
+            information for these elements are available under the business exchange standard proposals sections:
         </p>
         <ul>
             <li>
@@ -116,6 +116,5 @@ page: homepage
             </li>
             </p>
         <ul/>
-            
-        </ul>
+  
     
