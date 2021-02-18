@@ -44,7 +44,7 @@ Thank you to all who provides input on these business exchange standards.
             </li>
         </ul>
 
-<h2>010 - Budget Formulation-to-Execution</h2>
+<h2>Requisition Business Exchange Standard</h2>
 <div class="table-responsive">
     <table class="table-bordered">
         <thead>
@@ -56,7 +56,7 @@ Thank you to all who provides input on these business exchange standards.
                 <strong>Recommended Definition</strong>
             </th>
             <th>
-                <strong>Authoritative Reference</strong>
+                <strong>Required/Optional</strong>
             </th>
             <th>
                 <strong>&nbsp; Provide Feedback</strong>
