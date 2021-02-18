@@ -110,8 +110,12 @@ page: homepage
             </li>
             <li>
                 Is the Authoritative Reference(s) listed correct and comprehensive?
-            </li></p>
-        <ul>
-            <li>Are we missing any data elements?</li>
+            </li>
+            <li>
+            Are we missing any data elements?
+            </li>
+            </p>
+        <ul/>
+            
         </ul>
     
