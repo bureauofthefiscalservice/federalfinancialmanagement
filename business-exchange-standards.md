@@ -5,28 +5,44 @@ layout: article
 filename: business-exchange-standards.md
 title: Data Elements
 ---
-
-# Data Elements
-
-The data elements are grouped by End-to-End Business Process. An End-to-End Business Process identifies all of the events necessary to reach a desired result. The End-to-End Business Process provides the situation and manner in which to the FM Data Elements will be used.
-
-We have placed the elements in their primary business process for ease of review, but we realize that many may be used in more than one process. Each End-to-End Business Process will have its own GitHub feedback page, which is where you can see the input posted during the public input period. Thank you to all who provides input on these data elements.
-
-<p>When preparing feedback, consider the following:
-</p>
-<p><strong>For the new standard data elements identified and defined</strong>:
-</p>
-<ul>
-<li>   Are the data elements appropriately named?</li>
-<li>   Are the data element definitions accurate?</li>
-<li>   Is the Authoritative Reference(s) listed correct and comprehensive?</li>
-</ul>
-<p><strong>Also, after reviewing all of the identified critical FM data elements:</strong>
-</p>
-<ul>
-<li>   Are we missing any data elements?</li>
-</ul>
-<p>Note: We are not requesting feedback to the elements previously defined in the DATA Act Information Model Schema or the Fiscal Service Data Registry at this time.</p>
+# Business Exchange Standards Recommendations 
+ 
+The review is grouped by the business exchange process and then by the recommended data elements because of the business exchange analysis.   
+ 
+These business exchanges can be grouped by specific business events.  For example, the same standard can be used for a commercial invoice, travel voucher, or grants invoice.  
+ 
+The new data elements and each business exchange process will have its own GitHub feedback page, which is where you can see the input posted during the public input period.  
+ 
+Thank you to all who provides input on these business exchange standards. 
+ 
+<p>            Note: We are not requesting feedback to the elements previously defined in the existing inventory of FM Standard Business Data Elements, DATA Act Information Model Schema or the Fiscal Service Data Registry as part of this public comment period.</p>
+<p><h3 class="mt-0">Proposed Business Exchange Standards</h3></p> 
+   <p> 
+             When preparing feedback, consider the following:
+        </p>
+        <p>
+            <strong>For the Business Exchange Standards</strong>(the data that is required to be passed from the mission support system to the financial system and vice versa.) 
+        </p>
+        <ul>
+           <li>
+                If a data element has a condition that makes it not required, the data element is being proposed as optional.  If the data element is always required in the business exchange, it is proposed as required.   
+            </li>
+            <li>
+                Are the data elements appropriately named?
+            </li>
+            <li>
+                Are the data element definitions accurate?
+            </li>
+            <li>
+            Are we missing any data elements?
+            </li>
+            <li>
+                Is the data element required when the exchange of information is done?
+            </li>
+    <li>
+               Is this list correct and comprehensive for the necessary information to be exchanged for the related business process?
+            </li>
+        </ul>
 
 <h2>010 - Budget Formulation-to-Execution</h2>
 <div class="table-responsive">
