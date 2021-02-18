@@ -48,9 +48,38 @@ page: homepage
                 <a href="https://fiscal.treasury.gov/files/fit/ffm-standard-data-elements.xlsx" target="_blank">Federal
                     Financial Management Standard Data Elements</a>: identify the minimum data fields required to support the inputs and outputs noted in the use cases and                           capabilities.
             </li>
-          <li>
-</li>
-         
+            </ul>
+        <p>
+        FIT has also identified business exchanges between agency mission support systems and the core financial system as an area of duplication and an opportunity for standardization across the government. 
+        </p>
+         <p>
+           These business exchanges are designed for the same or similar business processes across systems, however the data elements used in the exchanges are often different. These business exchanges can be grouped by specific business events.  For example, the same standard can be used for a commercial invoice, travel voucher, or grants invoice. 
+        </p>
+     <p>
+          The business exchanges that FIT has analyzed include:
+        </p>
+         <ul>
+            <li>
+                <a href="https://tfm.fiscal.treasury.gov/v1/p6/c950.html" target="_blank">Federal Financial Management
+                    System Requirements (FFMSR)</a>: defines financial system standards and reporting requirements
+                capabilities, with references to underlying standards and regulations
+            </li>
+            <li>
+                <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/FMFunctionsandActivities.pdf"
+                   target="_blank" download>Federal Financial Management Functions & Activities List</a>: defines a
+                taxonomy of FM capabilities and services, with references to OMB Circular A-11 and the FFMSR
+            </li>
+            <li>
+                <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/fit_usecase.htm" target="_blank">Federal
+                    Financial Management Business Use Cases</a>: establishes a system agnostic view of the flow of
+                events
+                to complete the federal FM business processes, with links to the FFMSR
+            </li>
+        <li>
+                <a href="https://fiscal.treasury.gov/files/fit/ffm-standard-data-elements.xlsx" target="_blank">Federal
+                    Financial Management Standard Data Elements</a>: identify the minimum data fields required to support the inputs and outputs noted in the use cases and                           capabilities.
+            </li>
+            </ul>
         <ul>
        </ul>
        <p><h3 class="mt-0">How You Can Help</h3></p>
