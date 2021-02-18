@@ -15,12 +15,6 @@ page: homepage
      <p>
             Note: We are not requesting feedback to the elements previously defined in the existing inventory of FM Standard Business Data Elements, DATA Act Information Model Schema or the Fiscal Service Data Registry as part of this public comment period.
         </p>
-     <!--<p>-->
-        <!--Treasury’s Office of Financial Innovation and Transformation (FIT) is the Line of Business (LoB) Managing-->
-        <!--Partner for the Federal Financial Management (FM) service area. FIT has developed a set of reference-->
-        <!--documents to help guide agencies in improving the cost, quality, and performance of Federal financial-->
-        <!--activities and solutions. Those references include:-->
-        <!--</p>-->
         <p><h3 class="mt-0">Background</h3></p>
          <p>
             FIT is the Line of Business Managing Partner for Federal Financial Management services. FIT has developed a
@@ -60,22 +54,22 @@ page: homepage
         </p>
          <ul>
             <li>
-                <a> The requisition business exchange occurs when the request to acquire goods or services is approved.  When a requisition is approved in the mission support system, a commitment is created in the financial system. 
+                <a> The <strong>requisition business exchange</strong> occurs when the request to acquire goods or services is approved.  When a requisition is approved in the mission support system, a commitment is created in the financial system. 
             </li>
              <li>
-                <a> The order business exchange occurs when the authorization to acquire goods or services is approved. When an order is approved in the mission support system, an obligation is created in the financial system.  
+                <a> The <strong>order business exchange</strong> occurs when the authorization to acquire goods or services is approved. When an order is approved in the mission support system, an obligation is created in the financial system.  
             </li>
           <li>
-                <a> The invoice business exchange occurs when the quantities and costs of the goods or services provided by the seller.  Once the invoice has been approved, an outlay is created in the financial system.
+                <a> The <strong>invoice business exchange</strong> occurs when the quantities and costs of the goods or services provided by the seller.  Once the invoice has been approved, an outlay is created in the financial system.
             </li>
              <li>
-                <a> The goods/service receipt business exchange occurs when the acknowledgement of having received goods and services for a specified quantity, amount, etc.
+                <a> The <strong> receipt of goods/services business exchange</strong> occurs when the acknowledgement of having received goods and services for a specified quantity, amount, etc.
             </li>
              <li>
-                <a> The entity information business exchange occurs on a regular basis between mission support systems and the financial system.  The information in this exchange includes information about entities interacting with the government.  This includes both payee and payer information needed to send or receive funds.
+                <a> The <strong>entity information business exchange</strong> occurs on a regular basis between mission support systems and the financial system.  The information in this exchange includes information about entities interacting with the government.  This includes both payee and payer information needed to send or receive funds.
             </li>
                  <li>
-                <a>The automated journal entry business exchange occurs when the mission support system initiates a financial transaction to be posted to the general ledger through an automated process (e.g., payroll batch upload). This does not include journal entries manually created or requiring human intervention to process.
+                <a>The <strong>automated journal entry business exchange</strong> occurs when the mission support system initiates a financial transaction to be posted to the general ledger through an automated process (e.g., payroll batch upload). This does not include journal entries manually created or requiring human intervention to process.
             </li>
             </ul>
         <ul>
