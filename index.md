@@ -91,6 +91,9 @@ page: homepage
                 Are the data element definitions accurate?
             </li>
             <li>
+            Are we missing any data elements?
+            </li>
+            <li>
                 Is the data element required when the exchange of information is done?
             </li>
     <li>
@@ -111,10 +114,7 @@ page: homepage
             <li>
                 Is the Authoritative Reference(s) listed correct and comprehensive?
             </li>
-            <li>
-            Are we missing any data elements?
-            </li>
-            </p>
+             </p>
         <ul/>
   
     
