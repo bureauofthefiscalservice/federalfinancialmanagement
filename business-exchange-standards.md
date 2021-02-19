@@ -1912,9 +1912,9 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
 
 
 
-<p><h3 class="mt-0">New Federal Financial Standard Data Elements </h3></p> 
+<p><h3 class="mt-0">Proposed Additions and Changes to Federal Financial Standard Data Elements </h3></p> 
    <p> 
-             As a result of the business exchange analysis, there are also data elements that need to be added to the Federal Financial Standard Data Elements for these business exchanges to properly perform the necessary exchange of data between systems  
+             As a result of the business exchange analysis, there are also data elements that need to be added or modified in the Federal Financial Standard Data Elements for these business exchanges to properly perform the necessary exchange of data between systems.  
         </p>
         <p> 
              When preparing feedback, consider the following:
