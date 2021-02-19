@@ -2295,7 +2295,7 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
   </tr>
   <tr>
     <td>PointofPointofContactE-MailAddress</td>
-    <td>�Internet e-mail address for a person or a department serving as the coordinator or focal point of information concerning an activity or program.</td>
+    <td>Internet e-mail address for a person or a department serving as the coordinator or focal point of information concerning an activity or program.</td>
     <td>TBD</td>
     <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/27">Provide Feedback</a></td>
   </tr>
@@ -2491,7 +2491,7 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
   </tr>
   <tr>
     <td>LegalEntityForeignProvinceName</td>
-    <td>For foreign recipients only: name of the state or province in which the awardee or recipient�s legal business address is located.</td>
+    <td>For foreign recipients only: name of the state or province in which the awardee or recipient's legal business address is located.</td>
     <td>For foreign entities only: name of the state or province in which the entity's legal business address is located.</td>
     <td>Recommend generalizing this definition so that it can be used for both payee and payer entities.</td>
     <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/28">Provide Feedback</a></td>
@@ -2535,7 +2535,7 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
     <td>UltimateParentLegalEntityName</td>
     <td>Delete</td>
     <td>Delete</td>
-    <td>This data does not map to any of the other FM data elements.  In DAIMS and SAM this element is associated with a UltimateParentUniqueIdentifier which is different than AwardeeOrRecipientUniqueIdentifier.  AwardeeOrRecipientUniqueIdentifier maps to AwardeeOrRecipientLegalEntityName and the Legal Entity address elements already included in the FFM standards.  Recommend replacing with LegalEntityName.  </td>
+    <td>This data elements does not map to any of the other FM data elements.  In DAIMS and SAM.gov this element is associated with a UltimateParentUniqueIdentifier which is different than AwardeeOrRecipientUniqueIdentifier.  AwardeeOrRecipientUniqueIdentifier maps to AwardeeOrRecipientLegalEntityName and the Legal Entity address elements already included in the FFM standards.  Recommend replacing with LegalEntityName.  </td>
     <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/28">Provide Feedback</a></td>
   </tr>
         </tbody>
