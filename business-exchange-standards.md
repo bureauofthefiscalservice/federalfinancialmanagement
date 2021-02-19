@@ -323,6 +323,61 @@ Thank you to all who provides input on these business exchange standards.
                    target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
             </td>
         </tr>
+        <tr>
+            <td>
+                MainAccountCode
+            </td>
+            <td>
+                The Treasury Account Symbol (TAS) component that represents the type and purpose of the fund.
+            </td>
+            <td>
+                Required
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
+            </td>
+        </tr>
+        <tr>
+            <td>
+                ObjectClass
+            </td>
+            <td>
+                Categories in a classification system that presents obligations by the items or services purchased by the Federal Government
+            </td>
+            <td>
+               Optional
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
+            </td>
+        </tr>
+        <tr>
+            <td>
+                ProgramActivityCode
+            </td>
+            <td>
+                The definition for this element appears in Section 200of OMB Circular A-11 issued June 2015; a brief summary from A-11 appears below. Code of a specific activity or project as listed in the program and financing schedules of the annual budget of the United States Government.  
+            </td>
+            <td>
+                Optional
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
+            </td>
+       </tr>
+        <tr>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
         </tbody>
     </table>
 </div>
