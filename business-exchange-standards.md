@@ -278,6 +278,51 @@ Thank you to all who provides input on these business exchange standards.
                    target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></ 
             </td>
         </tr>
+        <tr>
+             <td>
+                 EndingPeriodOfAvailability
+             </td>
+             <td>
+                 The Treasury Account Symbol (TAS) component that identifies the last year of availability under law that an account may incur new obligations, in annual and multiyear accounts.
+             </td>
+             <td>
+                 Optional
+             </td>
+             <td>
+                 <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
+             </td>
+        </tr>
+        <tr>
+            <td>
+                FiscalYear 
+            </td>
+            <td>
+                The budget or financial year, as opposed to a calendar year. The U.S. Government's fiscal year runs from October 1 of the prior year through September 30 of the next year. For example, FY 2015 was from October 2014 through September 2015.
+            </td>
+            <td>
+                Optional
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></ 
+            </td>
+        </tr>
+        <tr>
+            <td>
+                InternalOrganizationCode
+            </td>
+            <td>
+                The code that identifies the entity that manages resources below the agency and bureau level, such as an office or a division. 
+            </td>
+            <td>
+                Required
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
+            </td>
+        </tr>
         </tbody>
     </table>
 </div>
