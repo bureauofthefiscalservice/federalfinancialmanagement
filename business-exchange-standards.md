@@ -3,7 +3,7 @@ published: true
 permalink: /business-exchange-standards/
 layout: article
 filename: business-exchange-standards.md
-title: Data Elements
+title: Business Exchanges
 ---
 # Business Exchange Standards Recommendations 
  
