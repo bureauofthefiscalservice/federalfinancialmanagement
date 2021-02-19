@@ -1727,26 +1727,26 @@ Thank you to all who provides input on these business exchange standards.
 
 
 
-<h2>Automated Journal Entry Business Exchange Standard</h2> 
-<div class="table-responsive"> 
-    <table class="table-bordered"> 
-        <thead> 
-        <tr> 
-            <th> 
-                <strong>Recommended Data Element Name</strong> 
-            </th> 
-            <th> 
-                <strong>Recommended Definition</strong> 
-            </th> 
-            <th> 
-                <strong>Required Optional</strong> 
-            </th> 
-            <th> 
-                <strong>&nbsp; Provide Feedback</strong> 
-            </th> 
-        </tr> 
-        </thead> 
-        <tbody> 
+<h2>Automated Journal Entry Business Exchange Standar</h2>
+<div class="table-responsive">
+    <table class="table-bordered">
+        <thead>
+        <tr>
+            <th>
+                <strong>Recommended Data Element Name</strong>
+            </th>
+            <th>
+                <strong>Recommended Definition</strong>
+            </th>
+            <th>
+                <strong>Required Optional</strong>
+            </th>
+            <th>
+                <strong>&nbsp; Provide Feedback</strong>
+            </th>
+        </tr>
+        </thead>
+        <tbody>
 <tr> 
     <td>3 Agency Defined Fields</td> 
     <td>A unique classification element needed by the agency to classify financial transactions for purposes other than those defined else-where.</td> 
@@ -1939,8 +1939,8 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
                Are we missing any data elements
             </li>
              </p>
-        <p> 
-            Note: We are not requesting feedback to the elements previously defined in the DATA Act Information Model Schema or the Fiscal Service Data Registry at this time. 
+              <p> 
+         Note: We are not requesting feedback to the elements previously defined in the DATA Act Information Model Schema or the Fiscal Service Data Registry at this time. 
         </p>
         </ul>
 
