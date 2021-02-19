@@ -370,12 +370,47 @@ Thank you to all who provides input on these business exchange standards.
        </tr>
         <tr>
             <td>
+                ProjectIdentifier
             </td>
             <td>
+                A planned undertaking of work to be performed or product to be produced having a finite beginning and end. 
             </td>
             <td>
+                Optional
             </td>
             <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
+            </td>
+        </tr>
+        <tr>
+            <td>
+                SubAccountCode
+            </td>
+            <td>
+                This is a component of the TAS. Identifies a Treasury-defined subdivision of the main account. This field cannot be blank. Subaccount 000 indicates the Parent account.
+            </td>
+            <td>
+                Required 
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Unitprice
+            </td>
+            <td>
+                The price of one purchase unit on a requisition, order or invoice. 
+            </td>
+            <td>
+                Optional 
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
             </td>
         </tr>
         </tbody>
