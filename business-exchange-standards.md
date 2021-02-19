@@ -158,6 +158,126 @@ Thank you to all who provides input on these business exchange standards.
                    target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
             </td>
         </tr>
+        <tr>
+            <td>
+                Description
+            </td>
+            <td>
+                A brief description of the requisition, order or invoice.
+            </td>
+            <td>
+                Optional
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
+            </td>
+        </tr>
+        <tr>
+            <td>
+                DocumentApprovalDate     
+            </td>
+            <td>
+                The date which the agreement was approved.            
+            </td>
+            <td>
+                Required
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
+            </td>
+        </tr>
+        <tr>
+            <td>
+                DocumentLineAmount             
+            </td>
+            <td>
+                The total price is the quantity x unit price for each itemized line within the requisition, order or invoice.  
+            </td>
+            <td>
+                Required 
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
+            </td>
+        </tr>
+        <tr>
+            <td>
+                DocumentLineDescription
+            </td>
+            <td>
+                The description of goods/services associated with each itemized line within the requisition, order or invoice.
+            </td>
+            <td>
+                Optional
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
+            </td>
+        </tr>
+        <tr>
+            <td>
+                DocumentLineNumber
+            </td>
+            <td>
+                Identifies the line number on the requisition, order, receipt or invoice for each separate product or service.
+            </td>
+            <td>
+                Optional 
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
+            </td>
+        </tr>
+        <tr>
+            <td>
+                DocumentLineQuantity
+            </td>
+            <td>
+                The quantity of goods/services associated with each itemized line within the requisition, order or invoice.
+            </td>
+            <td>
+                Optional
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></
+            </td>
+        </tr>
+        <tr>
+            <td>
+                DocumentLineUnitofMeasure
+            </td>
+            <td>
+                The means a quantity is accounted for and expressed on each itemized line within the requisition, order or invoice for a good/service. 
+            </td>
+            <td>
+                Optional
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></ 
+            </td>
+        </tr>
+        <tr>
+            <td>
+                DocumentReferenceNumber
+            </td>
+            <td>
+                Details a unique identifying number created by a system for a document, e.g. payment or collection document. 
+            </td>
+            <td>
+                Required
+            </td>
+            <td>
+                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/11"
+                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a></ 
+            </td>
+        </tr>
         </tbody>
     </table>
 </div>
