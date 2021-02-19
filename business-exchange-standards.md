@@ -16,6 +16,7 @@ The new data elements and each business exchange process will have its own GitHu
 Thank you to all who provides input on these business exchange standards. 
  
 <p>            Note: We are not requesting feedback to the elements previously defined in the existing inventory of FM Standard Business Data Elements, DATA Act Information Model Schema or the Fiscal Service Data Registry as part of this public comment period.</p>
+
 <p><h3 class="mt-0">Proposed Business Exchange Standards</h3></p> 
    <p> 
              When preparing feedback, consider the following:
@@ -1907,6 +1908,37 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
           </tbody> 
     </table> 
 </div>
+
+
+
+<p><h3 class="mt-0">New Federal Financial Standard Data Elements </h3></p> 
+   <p> 
+             As a result of the business exchange analysis, there are also data elements that need to be added to the Federal Financial Standard Data Elements for these business exchanges to properly perform the necessary exchange of data between systems  
+        </p>
+        <p> 
+             When preparing feedback, consider the following:
+        </p>
+        <p>
+            <strong>For the new standard data elements identified and defined: </strong>
+        </p>
+        <ul>
+            <li>
+                Are the data elements appropriately named?
+            </li>
+            <li>
+                Are the data element definitions accurate?
+            </li>
+             <li>
+               Is the Authoritative Reference(s) listed correct and comprehensive? 
+            </li>
+             <li>
+               Are we missing any data elements
+            </li>
+             </p>
+        <p> 
+            Note: We are not requesting feedback to the elements previously defined in the DATA Act Information Model Schema or the Fiscal Service Data Registry at this time. 
+        </p>
+        </ul>
 
 
 
