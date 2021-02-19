@@ -55,25 +55,23 @@ page: homepage
          <ul>
             <li>
                 <a> The <strong>requisition business exchange</strong> occurs when the request to acquire goods or services is approved.  When a requisition is approved in the mission support system, a commitment is created in the financial system. 
-            </li>
+                    </li>
              <li>
-                <a> The <strong>order business exchange</strong> occurs when the authorization to acquire goods or services is approved. When an order is approved in the mission support system, an obligation is created in the financial system.  
-            </li>
+                <a> The <strong>order business exchange</strong> occurs when the authorization to acquire goods or services is approved. When an order is approved in the mission support system, an obligation is created in the financial system. 
+                    </li>
           <li>
                 <a> The <strong>invoice business exchange</strong> occurs when the quantities and costs of the goods or services provided by the seller.  Once the invoice has been approved, an outlay is created in the financial system.
-            </li>
+                    </li>
              <li>
                 <a> The <strong> receipt of goods/services business exchange</strong> occurs when the acknowledgement of having received goods and services for a specified quantity, amount, etc.
-            </li>
+                    </li>
              <li>
                 <a> The <strong>entity information business exchange</strong> occurs on a regular basis between mission support systems and the financial system.  The information in this exchange includes information about entities interacting with the government.  This includes both payee and payer information needed to send or receive funds.
-            </li>
+                    </li>
                  <li>
-                <a>The <strong>automated journal entry business exchange</strong> occurs when the mission support system initiates a financial transaction to be posted to the general ledger through an automated process (e.g., payroll batch upload). This does not include journal entries manually created or requiring human intervention to process.
-            </li>
-            </ul>
-        <ul>
-       </ul>
+                <a>The <strong>automated journal entry business exchange</strong> occurs when the mission support system initiates a financial transaction to be posted to the general ledger through an automated process (e.g., payroll batch upload). This does not include journal entries manually created or requiring human intervention to process
+                    </li>
+            </ul>        
        <p><h3 class="mt-0">How You Can Help</h3></p>
         <p>Visit the <a href="./get-involved">Get Involved</a> page to find out how to comment or participate in different aspects of this project. Your feedback is critical to ensure the thoroughness of the business exchange standards and the data elements necessary for the exchange of information. Both the proposed business exchange standards and the new proposed data elements can be found on the  <a href="./business-exchanges-standards">Business Exchange Page</a>)
         </p>
@@ -113,8 +111,8 @@ page: homepage
             </li>
             <li>
                 Is the Authoritative Reference(s) listed correct and comprehensive?
-            </li>
-             </p>
-        <ul/>
+    </li>
+    </p>
+    <ul/>
   
     
