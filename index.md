@@ -1,6 +1,6 @@
 ---
 published: true
-permalink: /index.html
+permalink: /index html
 layout: article
 filename: index.md
 title: FFM Business Data Elements

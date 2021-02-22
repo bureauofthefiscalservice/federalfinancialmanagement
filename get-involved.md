@@ -1,6 +1,6 @@
 ---
 published: true
-permalink: /get-involved/
+permalink: /getinvolved/
 layout: article
 filename: get-involved.md
 title: Get Involved
