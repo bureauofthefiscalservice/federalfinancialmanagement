@@ -1912,7 +1912,7 @@ Note: We are not requesting feedback to the elements previously defined in the D
   <tr>
     <td>DocumentLineDescription</td>
     <td>The description of goods/services associated with each itemized line within the requisition, order or invoice.</td>
-    <td>Req, Order, Invoice</td>
+    <td>TBD</td>
     <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/27">Provide Feedback</a></td>
   </tr>
   <tr>
