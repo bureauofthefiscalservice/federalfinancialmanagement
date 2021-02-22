@@ -1079,7 +1079,7 @@ Thank you to all who provides input on these business exchange standards.
   <td>3rdPartyInformationAddressLine1</td>
   <td>First line of the 3rd party involved in the transaction's address</td>
   <td>Optional</td>
-  <td>                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/22"                      target="_blank" rel=“noopener noreferrer”>Provide Feedback</a> </td>
+ <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/22">Provide Feedback</a></td>
  </tr>
  <tr>
   <td>3rdPartyInformationAddressLine2</td>
@@ -1253,7 +1253,7 @@ Thank you to all who provides input on these business exchange standards.
   <td>LegalEntityAddressLine2</td>
   <td>Second line of the entity's address.</td>
   <td>Optional</td>
-  <td>                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/22"                      target="_blank" rel=“noopener noreferrer”>Provide Feedback </a></td>
+  <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/22">Provide Feedback</a></td>
  </tr>
  <tr>
   <td>LegalEntityCityName</td>
@@ -1643,9 +1643,8 @@ Thank you to all who provides input on these business exchange standards.
   <td>W2Indicator</td>
   <td>This indicator is used to classify the different types of withholding tax. Form W-2 is filed by employers to report wages, tips, and other compensation paid to employees as well as FICA and withheld income taxes.</td>
   <td>Optional</td>
-  <td>                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/22"                      target="_blank" rel=“noopener noreferrer”>Provide Feedback </a></td>
+  <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/22">Provide Feedback</a></td>
  </tr>
-        </tr>
         </tbody>
     </table>
     </div>
@@ -1675,54 +1674,56 @@ Thank you to all who provides input on these business exchange standards.
     <td>3 Agency Defined Fields</td> 
     <td>A unique classification element needed by the agency to classify financial transactions for purposes other than those defined else-where.</td> 
     <td>Optional</td> 
-    <td><a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
+        <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
+  </tr> 
   <tr> 
     <td>ActivityIdentifier</td> 
     <td>An activity is a series of events, tasks, or units of work that are linked to perform a specific objective. </td> 
     <td>Optional</td> 
-    <td><a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
+        <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
   </tr> 
   <tr> 
     <td>AgencyIdentifier</td> 
     <td>The Treasury Account Symbol (TAS) component that identifies the department, agency or establishment of the U.S. Government that is responsible for the TAS.  Agency Identifier is also used apart from the TAS to identify a major department or independent agency of the Federal government.</td> 
     <td>Required</td> 
-    <td><a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
+        <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
   </tr> 
   <tr> 
     <td>AllocationTransferAgencyIdentifier</td> 
     <td>The Treasury Account Symbol (TAS) component that identifies the agency receiving funds through an allocation transfer.</td> 
     <td>Optional</td> 
-    <td><a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
+       <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
   </tr> 
   <tr> 
     <td>Amount</td> 
     <td>The dollar amount field can be up to 21 numerical characters with no decimals. Last two places are assumed decimal.</td> 
     <td>Required </td> 
-    <td><a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
+       <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
   </tr> 
   <tr> 
     <td>AvailabilityTypeCode</td> 
     <td>The Treasury Account Symbol (TAS) component that identifies no-year accounts (X), clearing/suspense accounts (F), Treasury central summary general ledger accounts (A), and merged-surplus accounts (M).</td> 
     <td>Optional</td> 
-    <td><a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
+        <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
   </tr> 
+  <tr> 
   <tr> 
     <td>AwardeeOrRecipientUniqueIdentifier</td> 
     <td>The unique identification number for an awardee or recipient. Currently the identifier is the 9-digit number assigned by Dun and Bradstreet (D&amp;B) referred to as the DUNS? number.</td> 
     <td>Optional</td> 
-    <td><a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
+        <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
   </tr> 
   <tr> 
     <td>BeginningPeriodOfAvailability</td> 
     <td>The Treasury Account Symbol (TAS) component that identifies the first year of availability under law that an account may incur new obligations, in annual and multiyear accounts.</td> 
-    <td>Optional</td> 
-    <td><a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
+	   <td>Optional</td> 
+       <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
   </tr> 
   <tr> 
     <td>CostCenterWorkUnitCode</td> 
     <td>A Cost Center is a clearly defined responsibility area where costs are incurred.</td> 
     <td>Optional</td> 
-    <td><a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
+       <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
   </tr> 
   <tr> 
     <td>EndingPeriodOfAvailability</td> 
@@ -1839,7 +1840,7 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
 
 
 
-<p><h3 class="mt-0">Proposed Additions and Changes to Federal Financial Standard Data Elements </h3></p> 
+<h3 class="mt-0">Proposed Additions and Changes to Federal Financial Standard Data Elements </h3> 
    <p> 
              As a result of the business exchange analysis, there are also data elements that need to be added or modified in the Federal Financial Standard Data Elements for these business exchanges to properly perform the necessary exchange of data between systems.  
         </p>
@@ -2467,4 +2468,5 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
         </tbody>
     </table>
 </div>
+
 
