@@ -1079,7 +1079,7 @@ Thank you to all who provides input on these business exchange standards.
   <td>3rdPartyInformationAddressLine1</td>
   <td>First line of the 3rd party involved in the transaction's address</td>
   <td>Optional</td>
-  <td>                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/22"                      target="_blank" rel=“noopener noreferrer”>Provide Feedback</a> </td>
+ <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/22">Provide Feedback</a></td>
  </tr>
  <tr>
   <td>3rdPartyInformationAddressLine2</td>
@@ -1253,7 +1253,7 @@ Thank you to all who provides input on these business exchange standards.
   <td>LegalEntityAddressLine2</td>
   <td>Second line of the entity's address.</td>
   <td>Optional</td>
-  <td>                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/22"                      target="_blank" rel=“noopener noreferrer”>Provide Feedback </a></td>
+  <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/22">Provide Feedback</a></td>
  </tr>
  <tr>
   <td>LegalEntityCityName</td>
@@ -1643,7 +1643,7 @@ Thank you to all who provides input on these business exchange standards.
   <td>W2Indicator</td>
   <td>This indicator is used to classify the different types of withholding tax. Form W-2 is filed by employers to report wages, tips, and other compensation paid to employees as well as FICA and withheld income taxes.</td>
   <td>Optional</td>
-  <td>                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/22"                      target="_blank" rel=“noopener noreferrer”>Provide Feedback </a></td>
+  <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/22">Provide Feedback</a></td>
  </tr>
         </tbody>
     </table>
