@@ -11,12 +11,7 @@ title: Get Involved
 
 Thank you for helping us improve government data. Below are ways you can stay up-to-date and offer your perspective to enhance government data quality.
 
-To provide feedback on the Data Elements, log in to GitHub and go to the [Data Elements]({{site.baseurl}}/data-elements) page.  Click on the links in the “Provide Feedback” column of the End-to-End Business Process table.
+To provide feedback on the business exchange standards and the associated data elements, log in to GitHub and go to the [Business Exchanges]({{site.baseurl}}/business-exchange-standards) page.  Click on the links in the “Provide Feedback” column of the Business Exchange and Proposed Data elements tables.
 
-Office Hours Calls -- Treasury FIT staff will provide an open forum for the FFM Community to ask any questions they may have about the FFM Data Elements Dial-in: (304) 480-5000 Access Code: 612292#
+If you have any questions, please do not hesitate to reach out to us at: <a href="mailto:FMSC@fiscal.treasury.gov?subject=Feedback on Business Exchange Standards&amp;amp;body=Business Exchange Standard: Data Element: ">FMSC@fiscal.treasury.gov</a>.
 
-Thursday, February 1st @ 1:00PM-2:00PM EST
-
-Wednesday, February 7th @ 11:00AM-12:00PM EST
-
-<strong>NEW:</strong> Thursday, February 15th @ 3:00PM-4:00PM EST
