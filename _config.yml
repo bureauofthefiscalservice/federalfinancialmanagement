@@ -29,7 +29,7 @@ whitelist:
 navigation:
  - title: Home
    url: /index.html
- - title: Data Elements
+ - title: Business Exchange
    url: /data-elements
  - title: Get Involved
    url: /get-involved
