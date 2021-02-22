@@ -1,9 +1,9 @@
 ---
 published: true
-permalink: /data-elements/
+permalink: /Business-Exchange/
 layout: article
 filename: business-exchange-standards.md
-title: Business Exchanges
+title: Business Exchange
 ---
 # Business Exchange Standards Recommendations 
  
@@ -1845,7 +1845,8 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
    <p> 
              As a result of the business exchange analysis, there are also data elements that need to be added or modified in the Federal Financial Standard Data Elements for these business exchanges to properly perform the necessary exchange of data between systems.  
         </p>
-	When preparing feedback, consider the following:
+
+<p>When preparing feedback, consider the following:</p>
 
 <p><strong>For the new standard data elements identified and defined:</strong></p>
 <ul>
@@ -1911,7 +1912,7 @@ Note: We are not requesting feedback to the elements previously defined in the D
   <tr>
     <td>DocumentLineDescription</td>
     <td>The description of goods/services associated with each itemized line within the requisition, order or invoice.</td>
-    <td>Req, Order, Invoice</td>
+    <td>TBD</td>
     <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/27">Provide Feedback</a></td>
   </tr>
   <tr>
