@@ -1,6 +1,6 @@
 ---
 published: true
-permalink: /data-elements/
+permalink: /Business-Exchange/
 layout: article
 filename: business-exchange-standards.md
 title: Business Exchanges
