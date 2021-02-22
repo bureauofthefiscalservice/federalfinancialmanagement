@@ -76,10 +76,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Optional
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -91,10 +88,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Required 
                 </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -106,10 +100,7 @@ Thank you to all who provides input on these business exchange standards.
              <td>
                 Optional
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -121,7 +112,6 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Optional
             </td>
-            <td>
                 <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
                    target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
             </td>
@@ -136,10 +126,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Optional
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -151,10 +138,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Optional
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -166,10 +150,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Optional
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -181,10 +162,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Required
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -196,10 +174,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Required 
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -211,10 +186,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Optional
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -226,10 +198,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Optional 
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -241,10 +210,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Optional
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -256,10 +222,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Optional
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -271,10 +234,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Required
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
              <td>
@@ -286,10 +246,7 @@ Thank you to all who provides input on these business exchange standards.
              <td>
                  Optional
              </td>
-             <td>
-                 <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-             </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -301,10 +258,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Optional
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a> 
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -316,10 +270,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Required
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -330,11 +281,7 @@ Thank you to all who provides input on these business exchange standards.
             </td>
             <td>
                 Required
-            </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -345,11 +292,7 @@ Thank you to all who provides input on these business exchange standards.
             </td>
             <td>
                Optional
-            </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -361,10 +304,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Optional
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
        </tr>
         <tr>
             <td>
@@ -376,10 +316,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Optional
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -391,10 +328,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Required 
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
             <td>
@@ -406,10 +340,7 @@ Thank you to all who provides input on these business exchange standards.
             <td>
                 Optional 
             </td>
-            <td>
-                <a> href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21"
-                   target="_blank" rel=“noopener noreferrer”>Provide Feedback</a>
-            </td>
+<td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         </tbody>
     </table>
