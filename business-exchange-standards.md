@@ -3,7 +3,7 @@ published: true
 permalink: /Business-Exchange/
 layout: article
 filename: business-exchange-standards.md
-title: Business Exchanges
+title: Business Exchange
 ---
 # Business Exchange Standards Recommendations 
  
