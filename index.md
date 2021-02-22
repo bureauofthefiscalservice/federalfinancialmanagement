@@ -15,7 +15,7 @@ page: homepage
      <p>
             Note: We are not requesting feedback to the elements previously defined in the existing inventory of FM Standard Business Data Elements, DATA Act Information Model Schema or the Fiscal Service Data Registry as part of this public comment period.
         </p>
-        <p><h3 class="mt-0">Background</h3></p>
+        <p><h3 class="mt-0">Background</h3>
          <p>
             FIT is the Line of Business Managing Partner for Federal Financial Management services. FIT has developed a
             set of reference documents that guide agencies in improving the cost, quality, and performance of
@@ -54,26 +54,26 @@ page: homepage
         </p>
          <ul>
             <li>
-                <a> The <strong>requisition business exchange</strong> occurs when the request to acquire goods or services is approved.  When a requisition is approved in the mission support system, a commitment is created in the financial system. 
+                The <strong>requisition business exchange</strong> occurs when the request to acquire goods or services is approved.  When a requisition is approved in the mission support system, a commitment is created in the financial system. 
                     </li>
              <li>
-                <a> The <strong>order business exchange</strong> occurs when the authorization to acquire goods or services is approved. When an order is approved in the mission support system, an obligation is created in the financial system. 
+                The <strong>order business exchange</strong> occurs when the authorization to acquire goods or services is approved. When an order is approved in the mission support system, an obligation is created in the financial system. 
                     </li>
           <li>
-                <a> The <strong>invoice business exchange</strong> occurs when the quantities and costs of the goods or services provided by the seller.  Once the invoice has been approved, an outlay is created in the financial system.
+                 The <strong>invoice business exchange</strong> occurs when the quantities and costs of the goods or services provided by the seller.  Once the invoice has been approved, an outlay is created in the financial system.
                     </li>
              <li>
-                <a> The <strong> receipt of goods/services business exchange</strong> occurs when the acknowledgement of having received goods and services for a specified quantity, amount, etc.
+                The <strong> receipt of goods/services business exchange</strong> occurs when the acknowledgement of having received goods and services for a specified quantity, amount, etc.
                     </li>
              <li>
-                <a> The <strong>entity information business exchange</strong> occurs on a regular basis between mission support systems and the financial system.  The information in this exchange includes information about entities interacting with the government.  This includes both payee and payer information needed to send or receive funds.
+                The <strong>entity information business exchange</strong> occurs on a regular basis between mission support systems and the financial system.  The information in this exchange includes information about entities interacting with the government.  This includes both payee and payer information needed to send or receive funds.
                     </li>
                  <li>
-                <a>The <strong>automated journal entry business exchange</strong> occurs when the mission support system initiates a financial transaction to be posted to the general ledger through an automated process (e.g., payroll batch upload). This does not include journal entries manually created or requiring human intervention to process
+                The <strong>automated journal entry business exchange</strong> occurs when the mission support system initiates a financial transaction to be posted to the general ledger through an automated process (e.g., payroll batch upload). This does not include journal entries manually created or requiring human intervention to process
                     </li>
             </ul>        
-       <p><h3 class="mt-0">How You Can Help</h3></p>
-        <p>Visit the <a href="./get-involved">Get Involved</a> page to find out how to comment or participate in different aspects of this project. Your feedback is critical to ensure the thoroughness of the business exchange standards and the data elements necessary for the exchange of information. Both the proposed business exchange standards and the new proposed data elements can be found on the  <a href="./business-exchanges-standards">Business Exchange Page</a>)
+       <h3 class="mt-0">How You Can Help</h3>
+       <p>Visit the <a href="/get-involved">Get Involved</a> page to find out how to comment or participate in different aspects of this project. Your feedback is critical to ensure the thoroughness of the business exchange standards and the data elements necessary for the exchange of information. Both the proposed business exchange standards and the new proposed data elements can be found on the  <a href="./business-exchanges-standards">Business Exchange Page</a>)
         </p>
         <p>
             When preparing feedback, consider the following:
@@ -112,7 +112,3 @@ page: homepage
             <li>
                 Is the Authoritative Reference(s) listed correct and comprehensive?
     </li>
-    </p>
-    <ul/>
-  
-    
