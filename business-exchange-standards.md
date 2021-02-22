@@ -1708,7 +1708,6 @@ Thank you to all who provides input on these business exchange standards.
         <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
   </tr> 
   <tr> 
-  <tr> 
     <td>AwardeeOrRecipientUniqueIdentifier</td> 
     <td>The unique identification number for an awardee or recipient. Currently the identifier is the 9-digit number assigned by Dun and Bradstreet (D&amp;B) referred to as the DUNS? number.</td> 
     <td>Optional</td> 
