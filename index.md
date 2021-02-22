@@ -73,7 +73,7 @@ page: homepage
                     </li>
             </ul>        
        <h3 class="mt-0">How You Can Help</h3>
-       <p>Visit the <a href="./get-involved">Get Involved</a> page to find out how to comment or participate in different aspects of this project. Your feedback is critical to ensure the thoroughness of the business exchange standards and the data elements necessary for the exchange of information. Both the proposed business exchange standards and the new proposed data elements can be found on the  <a href="./business-exchanges-standards">Business Exchange Page</a>)
+       <p>Visit the <a href="/get-involved">Get Involved</a> page to find out how to comment or participate in different aspects of this project. Your feedback is critical to ensure the thoroughness of the business exchange standards and the data elements necessary for the exchange of information. Both the proposed business exchange standards and the new proposed data elements can be found on the  <a href="./business-exchanges-standards">Business Exchange Page</a>)
         </p>
         <p>
             When preparing feedback, consider the following:
