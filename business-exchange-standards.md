@@ -1654,7 +1654,7 @@ Thank you to all who provides input on these business exchange standards.
 
 
 
-<h2>Automated Journal Entry Business Exchange Standar</h2>
+<h2>Automated Journal Entry Business Exchange Standard</h2>
 <div class="table-responsive">
     <table class="table-bordered">
         <thead>
@@ -1677,7 +1677,7 @@ Thank you to all who provides input on these business exchange standards.
 <tr> 
     <td>3 Agency Defined Fields</td> 
     <td>A unique classification element needed by the agency to classify financial transactions for purposes other than those defined else-where.</td> 
-    <td>Optional</th> 
+    <td>Optional</td> 
     <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
   <tr> 
     <td>ActivityIdentifier</td> 
