@@ -290,6 +290,7 @@ Thank you to all who provides input on these business exchange standards.
             </td>
             <td>
                Optional
+		  </td>  
 <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
