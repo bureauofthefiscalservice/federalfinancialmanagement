@@ -1845,9 +1845,8 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
    <p> 
              As a result of the business exchange analysis, there are also data elements that need to be added or modified in the Federal Financial Standard Data Elements for these business exchanges to properly perform the necessary exchange of data between systems.  
         </p>
-        <p>
 	When preparing feedback, consider the following:
-	</p>
+
 <p><strong>For the new standard data elements identified and defined:</strong></p>
 <ul>
     <li>Are the data elements appropriately named?</li>
