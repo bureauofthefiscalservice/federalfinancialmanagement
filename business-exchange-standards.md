@@ -1645,7 +1645,6 @@ Thank you to all who provides input on these business exchange standards.
   <td>Optional</td>
   <td>                <a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/22"                      target="_blank" rel=“noopener noreferrer”>Provide Feedback </a></td>
  </tr>
-        </tr>
         </tbody>
     </table>
     </div>
@@ -1841,7 +1840,7 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
 
 
 
-<p><h3 class="mt-0">Proposed Additions and Changes to Federal Financial Standard Data Elements </h3></p> 
+<h3 class="mt-0">Proposed Additions and Changes to Federal Financial Standard Data Elements </h3> 
    <p> 
              As a result of the business exchange analysis, there are also data elements that need to be added or modified in the Federal Financial Standard Data Elements for these business exchanges to properly perform the necessary exchange of data between systems.  
         </p>
@@ -2469,4 +2468,5 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
         </tbody>
     </table>
 </div>
+
 
