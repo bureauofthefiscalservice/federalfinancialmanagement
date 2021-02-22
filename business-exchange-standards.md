@@ -1865,7 +1865,6 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
              <li>
                Are we missing any data elements
             </li>
-             </p>
               <p> 
          Note: We are not requesting feedback to the elements previously defined in the DATA Act Information Model Schema or the Fiscal Service Data Registry at this time. 
         </p>
