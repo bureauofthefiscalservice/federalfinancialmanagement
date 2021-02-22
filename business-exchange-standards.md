@@ -1845,29 +1845,15 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
    <p> 
              As a result of the business exchange analysis, there are also data elements that need to be added or modified in the Federal Financial Standard Data Elements for these business exchanges to properly perform the necessary exchange of data between systems.  
         </p>
-        <p> 
-             When preparing feedback, consider the following:
-        </p>
-        <p>
-            <strong>For the new standard data elements identified and defined: </strong>
-        </p>
-        <ul>
-            <li>
-                Are the data elements appropriately named?
-            </li>
-            <li>
-                Are the data element definitions accurate?
-            </li>
-             <li>
-               Is the Authoritative Reference(s) listed correct and comprehensive? 
-            </li>
-             <li>
-               Are we missing any data elements
-            </li>
-              <p> 
-         Note: We are not requesting feedback to the elements previously defined in the DATA Act Information Model Schema or the Fiscal Service Data Registry at this time. 
-        </p>
-        </ul>
+        <p >When preparing feedback, consider the following:</p>
+<p><strong>For the new standard data elements identified and defined:</strong></p>
+<ul>
+    <li>Are the data elements appropriately named?</li>
+    <li>Are the data element definitions accurate?</li>
+    <li>Is the Authoritative Reference(s) listed correct and comprehensive?</li>
+    <li>Are we missing any data elements</li>
+</ul>
+        <p>Note: We are not requesting feedback to the elements previously defined in the DATA Act Information Model Schema or the Fiscal Service Data Registry at this time.</p>
 
 
 
