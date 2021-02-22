@@ -279,6 +279,7 @@ Thank you to all who provides input on these business exchange standards.
             </td>
             <td>
                 Required
+		</td>
 <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/21">Provide Feedback</a></td>
         </tr>
         <tr>
@@ -2351,7 +2352,7 @@ issued June 2015; a brief summary from A-11 appears below. Code of a specific ac
 </div>
 
 
-<h2>Proposed Modifications to Data Elements as a result of the Business Exchange Analysis</h2>
+<h2>Proposed Modifications to Data Elements as a Result of the Business Exchange Analysis</h2>
 <div class="table-responsive">
     <table class="table-bordered">
         <thead>
