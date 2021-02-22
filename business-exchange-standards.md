@@ -1717,6 +1717,7 @@ Thank you to all who provides input on these business exchange standards.
   <tr> 
     <td>BeginningPeriodOfAvailability</td> 
     <td>The Treasury Account Symbol (TAS) component that identifies the first year of availability under law that an account may incur new obligations, in annual and multiyear accounts.</td> 
+	   <td>Optional</td> 
        <td><a href="https://github.com/bureauofthefiscalservice/federalfinancialmanagement/issues/26">Provide Feedback</a></td> 
   </tr> 
   <tr> 
